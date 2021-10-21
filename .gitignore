@@ -1,0 +1,10 @@
+/.cache
+/.vscode
+/CMakeCache.txt
+/CMakeFiles
+/CMakeLists.txt
+/Makefile
+/bin
+/build
+/cmake_install.cmake
+/lib

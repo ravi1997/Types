@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../lib/libTypes.a  CMakeFiles/Types.dir/source/Types/types.cpp.o
+/usr/bin/ranlib ../lib/libTypes.a

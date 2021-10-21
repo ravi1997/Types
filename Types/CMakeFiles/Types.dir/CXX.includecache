@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/ravi1/OneDrive/Documents/Projects/Types/Types/source/Types/types.cpp
+Types/types.hpp
+-
+
+Types/include/Types/types.hpp
+chrono
+-
+concepts
+-
+coroutine
+-
+fstream
+-
+iomanip
+-
+iostream
+-
+map
+-
+memory
+-
+mutex
+-
+optional
+-
+source_location
+-
+sstream
+-
+string
+-
+string_view
+-
+vector
+-
+variant
+-
+

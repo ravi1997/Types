@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG  -rdynamic CMakeFiles/Example.dir/Main.cpp.o  -o ../bin/Example   -L/mnt/c/Users/ravi1/OneDrive/Documents/Projects/Types/lib  -Wl,-rpath,/mnt/c/Users/ravi1/OneDrive/Documents/Projects/Types/lib ../lib/libTypes.a -lTypes 
